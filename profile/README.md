@@ -28,8 +28,7 @@ We specialize in custom FiveM scripts with an emphasis on:
 ## 🚀 Featured Projects
 
 - `admin-menu` – A modular admin menu with tabs and player action modals  
-- `lbs_redzones` - A simple redzone script for  Qbox
-- `ox_inventory_redesign` - A simple redesign of ox_inventory for SYNC RP
+- `lbs_redzones` - A simple redzone script for QBCore & Qbox
 
 ---
 
